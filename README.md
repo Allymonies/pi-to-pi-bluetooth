@@ -5,5 +5,6 @@ Most of this works off of using https://www.raspberrypi.org/forums/viewtopic.php
 
 Uses:
 
-Devices are time-synced based off the master pi which should probably have an RTC installed.
-Messages are relayed for use in other programs.
+* Devices are time-synced based off the master pi which should probably have an RTC installed.
+
+* Messages are relayed for use in other programs.
